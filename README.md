@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 ### Junior Developer
 
-BSc from the University of Manchester MAN
+BSc from the University of Manchester
+
+Prospective Masters student in the USA from fall 2021
 
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
+
+
+### Interest
+* Machine Learning
+* Reinforcement Learning
+* Computational Neuroscience
+* Natural Language Processing
+* Human-Computer Interaction
