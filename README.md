@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Junior Developer
 
-BSc from the University of Manchester 🅼🅰🅽🅲
+BSc from the University of Manchester MAN
 
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
