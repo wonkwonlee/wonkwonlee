@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wonkwonlee/wonkwonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,6 @@ Here are some ideas to get you started:
 
 ### Junior Developer
 
-BSc from the University of Manchester
+BSc from the University of Manchester 🅼🅰🅽🅲
+
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
