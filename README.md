@@ -28,3 +28,6 @@ Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
 * Computational Neuroscience
 * Natural Language Processing
 * Human-Computer Interaction
+
+[![Linkedin: Wonkwon Lee](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dload1392/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub wonkwonlee](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/wonkwonlee)
