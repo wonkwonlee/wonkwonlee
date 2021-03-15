@@ -29,5 +29,5 @@ Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
 * Natural Language Processing
 * Human-Computer Interaction
 
-[![Linkedin: Wonkwon Lee](https://img.shields.io/badge/-wonkwon-lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dload1392/)](https://www.linkedin.com/in/dload1392/)
+[![Linkedin: wonkwonlee](https://img.shields.io/badge/-wonkwon-lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dload1392/)](https://www.linkedin.com/in/dload1392/)
 [![GitHub wonkwonlee](https://img.shields.io/github/followers/wonkwonlee?label=follow&style=social)](https://github.com/wonkwonlee)
