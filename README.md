@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Junior Developer
+
+BSc from the University of Manchester
+
+Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
