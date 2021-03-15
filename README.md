@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior Developer
+### Junior Developer
 
 BSc from the University of Manchester
-
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
