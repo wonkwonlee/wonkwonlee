@@ -28,6 +28,3 @@ Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
 * Computational Neuroscience
 * Natural Language Processing
 * Human-Computer Interaction
-
-[![Linkedin: wonkwonlee](https://img.shields.io/badge/-Linked-In-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dload1392/)](https://www.linkedin.com/in/dload1392/)
-[![GitHub wonkwonlee](https://img.shields.io/github/followers/wonkwonlee?label=follow&style=social)](https://github.com/wonkwonlee)
