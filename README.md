@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Junior Developer
+### Developer
 
 BSc from the University of Manchester
 
-Prospective Masters student in the USA from fall 2021
+Prospective Masters student in the USA from fall'21
 
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
 
 
-### Interest
+### Research Interest
 * Machine Learning
 * Reinforcement Learning
 * Computational Neuroscience
