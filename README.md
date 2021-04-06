@@ -22,14 +22,14 @@ Prospective Masters student in the USA from fall'21
 Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
 
 
+![WonkwonLee's github stats](https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&show_icons=true&hide=prs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonkwonlee&layout=compact)](https://github.com/wonkwonlee/github-readme-stats)
+
+
 ### Research Interest
 * Machine Learning
 * Reinforcement Learning
 * Computational Neuroscience
 * Natural Language Processing
 * Human-Computer Interaction
-
-
-![WonkwonLee's github stats](https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&show_icons=true&hide=prs,issues)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonkwonlee&layout=compact)](https://github.com/wonkwonlee/github-readme-stats)
