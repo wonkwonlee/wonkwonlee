@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Developer
 
-BSc from the University of Manchester
+BSc from the University of Manchester ![UoM_logo](https://user-images.githubusercontent.com/28593767/113643364-1e85c280-96bd-11eb-99cb-141d0539ed6b.jpg)
 
 Prospective Masters student in the USA from fall'21
 
