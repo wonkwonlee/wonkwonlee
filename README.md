@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 BSc from the University of Manchester 
 
-Prospective Masters student in the USA from fall 2021
+Prospective Masters student in the USA 🇺🇸 from fall 2021
 
-Born in 🇰🇷, Grew up in 🇨🇦, Studied in 🇬🇧
+Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧
 
 
 ![WonkwonLee's github stats](https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&show_icons=true&hide=prs,issues)
