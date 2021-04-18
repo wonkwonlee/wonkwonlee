@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Developer
 
-BSc from the University of Manchester 
+MSCS Student at New York University Courant from fall 2021
 
-Prospective Masters student in the USA 🇺🇸 from fall 2021
+BSc from the University of Manchester Class of 2018
 
-Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧
+Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
 
 ![WonkwonLee's github stats](https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&show_icons=true&hide=prs,issues)
