@@ -19,7 +19,7 @@ MSCS Student at New York University Courant from fall 2021
 
 BSc from the University of Manchester
 
-Born in 🇰🇷 ,  Grew up in 🇨🇦 ,  Studied in 🇬🇧 ,  Going 🇺🇸
+Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
 
 ![WonkwonLee's github stats](https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&show_icons=true&hide=prs,issues)
