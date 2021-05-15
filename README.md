@@ -30,7 +30,7 @@ Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 </a>  
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=wonkwonlee&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=wonkwonlee&&style=flat-square" align="center" />
 </div>  
 
 ### GitHub Stats
