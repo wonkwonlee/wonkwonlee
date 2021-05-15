@@ -33,6 +33,7 @@ BSc from the University of Manchester
 Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
 
+<br/>  
 
 ### GitHub Stats
 <table><tr><td valign="top" width="50%">
@@ -45,8 +46,8 @@ Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
 </td></tr></table>  
 
-<br/>  
 
+<br/>  
 
 ### Research Interests
 * Machine Learning
