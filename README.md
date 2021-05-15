@@ -20,16 +20,19 @@ Here are some ideas to get you started:
 
 ## Hi There 👋
 
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/wonkwonlee)](hhttps://github.com/wonkwonlee)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonkwon-lee)](https://www.linkedin.com/in/wonkwon-lee)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wonkwon.lee94@gmail.com)](mailto:wonkwon.lee94@gmail.com)
+
 ### Hey, I'm Wonkwon Lee!
+
 MSCS Student at New York University Courant Institute of Mathematical Sciences
 
 BSc from the University of Manchester
 
 Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white&link=https://https://github.com/wonkwonlee)](hhttps://github.com/wonkwonlee)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonkwon-lee)](https://www.linkedin.com/in/wonkwon-lee)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonkwon.lee94@gmail.com)](mailto:wonkwon.lee94@gmail.com)
+
 
 ### GitHub Stats
 <table><tr><td valign="top" width="50%">
