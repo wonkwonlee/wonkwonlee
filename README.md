@@ -21,20 +21,13 @@ Here are some ideas to get you started:
 ## Hi There 👋
 
 ### Hey, I'm Wonkwon Lee!
-MSCS Student at New York University Courant from fall 2021
+MSCS Student at New York University Courant Institute of Mathematical Sciences
 
 BSc from the University of Manchester
 
 Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
 
-<a href="https://github.com/wonkwonlee" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/wonkwon-lee" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/wonkwonlee)](hhttps://github.com/wonkwonlee)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white&link=https://https://github.com/wonkwonlee)](hhttps://github.com/wonkwonlee)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonkwon-lee)](https://www.linkedin.com/in/wonkwon-lee)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonkwon.lee94@gmail.com)](mailto:wonkwon.lee94@gmail.com)
 
