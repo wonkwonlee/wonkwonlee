@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Wonkwon Lee!
 
-MSCS Student at New York University Courant Institute of Mathematical Sciences
+MSCS Student at New York University, Courant Institute of Mathematical Sciences
 
 BSc from the University of Manchester
 
-Born in 🇰🇷 Grew up in 🇨🇦 Studied in 🇬🇧 Going 🇺🇸
+🇰🇷🇨🇦🇬🇧🇺🇸
 
 
 <br/>  
