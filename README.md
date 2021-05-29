@@ -53,5 +53,6 @@ BSc from the University of Manchester
 * Machine Learning
 * Reinforcement Learning
 * Computational Neuroscience
+# Cognitive Science
 * Natural Language Processing
 * Human-Computer Interaction
