@@ -51,8 +51,8 @@ BSc from the University of Manchester
 
 ### Research Interests
 * Machine Learning
+* Natural Language Processing
 * Reinforcement Learning
 * Computational Neuroscience
 * Cognitive Science
-* Natural Language Processing
 * Human-Computer Interaction
