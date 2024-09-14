@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Wonkwon Lee!
 
-MSCS Student at New York University, Courant Institute of Mathematical Sciences
+I am an MSCS graduate from New York University, Courant Institute of Mathematical Sciences.
 
-BSc from the University of Manchester
+During my Master’s, I was fortunate to work on Fair and Trustworthy AI.
+
+Prior to to Master’s, I studied at the University of Manchester.
 
 🇰🇷🇨🇦🇬🇧🇺🇸
 
