@@ -32,6 +32,8 @@ During my Master’s, I was fortunate to work on Fair and Trustworthy AI.
 
 Prior to to Master’s, I studied at the University of Manchester.
 
+Currently, I am a System Engineer at LG, also a prospective PhD applicantnl!
+
 🇰🇷🇨🇦🇬🇧🇺🇸
 
 
