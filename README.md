@@ -26,8 +26,15 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Wonkwon Lee!
 
-I am an MSCS graduate from New York University, Courant Institute of Mathematical Sciences. During my Master’s, I was fortunate to work on Fair and Trustworthy AI with Professor Julia Stoyanovich. Prior to to Master’s, I studied at the University of Manchester. Currently, I am a System Engineer at LG, also a prospective PhD applicantnl!
+I am an MSCS graduate from NYU, Courant Institute.
 
+Research-oriented, prospective PhD in Computer Science applicant 👨‍💻.
+
+My research interests are broadly in *Algorithmic Fairness* and *Trustworthy AI*, specifically in **Ethical Data Modification** 
+
+Also interested in *Privacy-preserving ML*, *Robustness*, *Interpretability*, *Generative AI*, and *LLM*
+
+Currently, I am a Systems Engineer at LG.
 🇰🇷🇨🇦🇬🇧🇺🇸
 
 
