@@ -1,19 +1,3 @@
-<!--
-**wonkwonlee/wonkwonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ...
--->
-
 <div align=center>
 <img src="https://komarev.com/ghpvc/?username=wonkwonlee&&style=flat-square" />
 </div>  
@@ -26,41 +10,3 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Wonkwon Lee!
 
-I am an MSCS graduate from NYU, Courant Institute.
-
-👨‍💻 Research-oriented, prospective PhD in Computer Science applicant.
-
-🔐 My research interests are broadly in *Algorithmic Fairness* and *Trustworthy AI*, specifically in **Ethical Data Modification**.
-
-🤖 Also interested in *Privacy-preserving ML*, *Robustness*, *Interpretability*, *Generative AI*, and *LLM*
-
-Currently, I am a Systems Engineer at LG.
-
-🇰🇷🇨🇦🇬🇧🇺🇸
-
-
-<br/>  
-
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=wonkwonlee&theme=highcontrast&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wonkwonlee&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=radical" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkwonlee&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-
-<br/>  
-
-### Research Interests
-* Machine Learning
-* Natural Language Processing
-* Reinforcement Learning
-* Computational Neuroscience
-* Cognitive Science
-* Human-Computer Interaction
